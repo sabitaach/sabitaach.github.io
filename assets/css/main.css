@@ -2647,8 +2647,12 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
-				padding-left: 5em;
+				padding-left: 10em;
 				width: 100%;
+			}
+			
+			.features figcaption {
+			   text-align: center;
 			}
 
 		.features article .inner {
