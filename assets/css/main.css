@@ -2640,7 +2640,7 @@ input, select, textarea {
 
 		.features article .image {
 			display: inline-block;
-			/*padding-right: 2.5em;*/
+			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
 		}
@@ -2648,7 +2648,7 @@ input, select, textarea {
 			.features article .image img {
 				display: block;
 				padding-left: 10em;
-				width: 50%;
+				width: 100%;
 			}
 			
 			.features figcaption {
