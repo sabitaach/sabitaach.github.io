@@ -2647,7 +2647,7 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
-				padding-right: 5em;
+				padding-left: 5em;
 				width: 100%;
 			}
 
