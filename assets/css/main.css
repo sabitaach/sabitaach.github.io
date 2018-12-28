@@ -2640,20 +2640,14 @@ input, select, textarea {
 
 		.features article .image {
 			display: inline-block;
-			/*padding-right: 2.5em;*/
+			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
 		}
 
 			.features article .image img {
 				display: block;
-				padding-left: 10em;
 				width: 100%;
-			}
-			
-			.features figcaption {
-			
-			text-align: center;
 			}
 
 		.features article .inner {
@@ -3144,7 +3138,6 @@ input, select, textarea {
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
 				width: 100%;
-				
 			}
 
 			.features article .inner {
