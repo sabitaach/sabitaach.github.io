@@ -2638,17 +2638,17 @@ input, select, textarea {
 			padding-top: 0;
 		}
 
-		.features article .image {
+		/*.features article .image {
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
-		}
+		}*/
 
-			.features article .image img {
+			/*.features article .image img {
 				display: block;
 				width: 100%;
-			}
+			}*/
 
 		.features article .inner {
 			display: inline-block;
